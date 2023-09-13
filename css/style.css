@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    background: #000000;
+    color: #fff;
+}
+
+h1{
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+
+h2{
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+p {
+    font-size: 24px;
+    padding: 10px, 10px;
+}
+
+img{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #fff;
+    border-width: 10px;
+    border-style: dashed;
+}
+
+div{
+    min-height: 125px;
+}
