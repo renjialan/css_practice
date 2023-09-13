@@ -2,6 +2,7 @@ body{
     font-family: Arial, Verdana, Geneva, Tahoma, sans-serif, sans-serif;
     background: #000000;
     color: #fff;
+    margin: 20px 20px 0px 20px;
 }
 
 h1{
@@ -10,13 +11,23 @@ h1{
     padding: 15px;
 }
 
-.yellow p, .yellow h2{
+h2{
     font-size: 30px;
+    color: #0D0D0D;
+}
+
+p{
+    font-size: 24px;
+    padding: 15px;
+}
+
+.yellow p, .yellow h2{
+    
     color: #707070;
 }
 
 .blue p, .blue h2 {
-    font-size: 24px;
+    
     padding: 10px, 10px;
     color: #C4C4C4 
 }
